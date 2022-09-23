@@ -1,0 +1,39 @@
+F2,F3,F4,F5,F6,F7,Number of Records,Region/
+"(10,000s)",Confirmed,Suspected,,Confirmed,,1,
+,,,Deaths,,Deaths,1,City
+,cases,cases,,cases,,1,
+5917,409,403,26,65596,2641,1,Hubei
+11346,0,0,0,1347,7,1,Guangdong
+9605,1,2,1,1272,20,1,Henan
+5737,0,0,0,1205,1,1,Zhejiang
+6899,1,0,0,1017,4,1,Hunan
+6324,0,0,0,989,6,1,Anhui
+4648,0,0,0,934,1,1,Jiangxi
+10047,0,0,0,756,6,1,Shandong
+8051,0,0,0,631,0,1,Jiangsu
+3102,0,11,0,576,6,1,Chongqing
+8341,3,4,0,534,3,1,Sichuan
+3773,0,0,1,480,13,1,Heilongjiang
+2154,10,10,1,410,5,1,Beijing
+2424,1,33,0,337,3,1,Shanghai
+7556,5,0,0,317,6,1,Hebei
+3941,2,0,0,296,1,1,Fujian
+4926,0,0,0,252,2,1,Guangxi
+3864,0,0,0,245,1,1,Shaanxi
+4830,0,3,0,174,2,1,Yunnan
+934,0,4,0,168,5,1,Hainan
+3600,0,1,0,146,2,1,Guizhou
+1560,0,20,0,135,3,1,Tianjin
+3718,0,1,0,133,0,1,Shanxi
+4359,0,14,0,121,1,1,Liaoning
+2704,0,2,0,93,1,1,Jilin
+2637,0,0,0,91,2,1,Gansu
+745,6,0,0,91,2,1,Hong Kong SAR
+2487,0,0,0,76,2,1,Xinjiang
+2534,0,0,0,75,0,1,Inner Mongolia
+688,1,0,0,72,0,1,Ningxia
+2359,0,0,0,32,1,1,Taipei and environs
+603,0,0,0,18,0,1,Qinghai
+66,0,0,0,10,0,1,Macao SAR
+344,0,0,0,1,0,1,Xizang
+142823,439,508,29,78630,2747,1,Total

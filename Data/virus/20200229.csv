@@ -1,0 +1,40 @@
+F1,F3,F4,F5,F6,F7,Number of Records,Population
+Region/,,,,,,1,
+,Confirmed,Suspected,,Confirmed,,1,"(10,000s)"
+City,cases,cases,Deaths,,Deaths,1,
+,,,,cases,,1,
+Hubei,423,159,45,66337,2727,1,5917
+Guangdong,1,0,0,1349,7,1,11346
+Henan,0,0,1,1272,21,1,9605
+Zhejiang,0,0,0,1205,1,1,5737
+Hunan,1,1,0,1018,4,1,6899
+Anhui,0,0,0,990,6,1,6324
+Jiangxi,0,1,0,935,1,1,4648
+Shandong,0,0,0,756,6,1,10047
+Jiangsu,0,0,0,631,0,1,8051
+Chongqing,0,7,0,576,6,1,3102
+Sichuan,0,2,0,538,3,1,8341
+Heilongjiang,0,0,0,480,13,1,3773
+Beijing,1,9,1,411,8,1,2154
+Shanghai,0,28,0,337,3,1,2424
+Hebei,0,0,0,318,6,1,7556
+Fujian,0,0,0,296,1,1,3941
+Guangxi,0,0,0,252,2,1,4926
+Shaanxi,0,0,0,245,1,1,3864
+Yunnan,0,3,0,174,2,1,4830
+Hainan,0,5,0,168,5,1,934
+Guizhou,0,1,0,146,2,1,3600
+Tianjin,0,14,0,136,3,1,1560
+Shanxi,0,0,0,133,0,1,3718
+Liaoning,0,15,0,121,1,1,4359
+Hong Kong SAR,1,0,0,94,2,1,745
+Jilin,0,3,0,93,1,1,2704
+Gansu,0,0,0,91,2,1,2637
+Xinjiang,0,0,0,76,3,1,2487
+Inner Mongolia,0,0,0,75,0,1,2534
+Ningxia,1,0,0,73,0,1,688
+Taipei and environs,7,0,0,39,1,1,2359
+Qinghai,0,0,0,18,0,1,603
+Macao SAR,0,0,0,10,0,1,66
+Xizang,0,0,0,1,0,1,344
+Total,435,248,47,79394,2838,1,142823
